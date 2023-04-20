@@ -1,12 +1,10 @@
 
 /* Your CSS Code here. */
-.container{
+h1{
 	width:200px;
+	border-left: 5px solid green;
 	background-color:purple;
-	border-left-width: 5px;
-	border-left-color:green;
 	padding:10px;
 	font-size:20px;
-	color:white;
-	
+	color:white;	
 }
